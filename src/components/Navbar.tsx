@@ -18,7 +18,7 @@ const Navbar = () => {
 
     return (
         <>
-            <nav className="w-1/6">
+            <nav className="flex w-1/3 justify-end">
                 <div className="justify-between hidden md:flex">
                     <NavLinks />
                 </div>
